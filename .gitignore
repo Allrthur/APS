@@ -1,0 +1,9 @@
+key.txt
+__pycache__/*
+models/*
+wandb/*
+output-cls/**
+output-lm/**
+extracted_fts/**
+!extracted_fts/.keep
+*.old.zip
